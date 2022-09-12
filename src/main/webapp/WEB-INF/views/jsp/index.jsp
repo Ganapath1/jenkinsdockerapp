@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to Mayank Modi's  Training, in FULLY automated jenkins</h2>
-			<h3>Contact mayank123modi@gmail.com  +91-8955707174 </h3>
+			<h2>Welcome to No one's  Training, in FULLY automated jenkins</h2>
+			<h3>Contact ganapathireddykosuru07@gmail.com  +91-6305672141 </h3>
 		</div>	
 	</div>
 
