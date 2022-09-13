@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to Jon Snow  Training, in FULLY automated jenkins</h2>
+			<h2>Welcome to Jon Snow.  Training, in FULLY automated jenkins</h2>
 			<h3>Contact ganapathireddykosuru07@gmail.com  +91-6305672141 </h3>
 		</div>	
 	</div>
